@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"PBATlock","characterIndex":3,"characterName":"PSPRITgulop","classId":1,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"PFAClock1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hatbox","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"PSPRITgulop","classId":4,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"PFACpink","traits":[],"initialLevel":10,"maxLevel":99,"name":"PiNK","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"PBATguard","characterIndex":4,"characterName":"PSPRITgulop","classId":3,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"PFACguard","traits":[],"initialLevel":2,"maxLevel":99,"name":"Dave","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"PBATtri","characterIndex":5,"characterName":"PSPRITgulop","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"PFACpink","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
